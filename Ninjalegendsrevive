@@ -64,6 +64,7 @@ Misc:Dropdown("Eggs", {location = _G, flag = "Egg", list = {
 "Thunder Crystal",
 "Legends Crystal",
 "Eternity Crystal"
+"Infinity Void Crystal"
 }
 }, function(new) print("Selected Egg:", new) end)
 
